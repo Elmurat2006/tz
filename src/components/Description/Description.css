@@ -1,0 +1,23 @@
+body{
+    color: #090F3F;
+}
+
+.fz-18{
+    font-size:18px;
+}
+
+
+
+.border-left{
+    border-left:120px solid #CF1257;
+    width:94px;
+    display: flex;
+}
+
+.fz-48{
+    font-size:48px;
+}
+
+.font-light{
+    font-weight:light;
+}
